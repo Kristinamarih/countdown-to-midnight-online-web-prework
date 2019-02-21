@@ -1,5 +1,4 @@
-#write your code here
-
+countdown_with_sleep( )
 def countdown(number)
   while number > 0 
    puts "#{number} SECOND(S)!"
